@@ -7,7 +7,7 @@ libfacedetection 是一个基于CNN的人脸检测的开源库。CNN模型已在
 
 参考原始代码：https://github.com/ShiqiYu/libfacedetection 
 
-修改后的代码：https://github.com/liuliu408/VS2017-Opencv
+修改后的代码：https://github.com/liuliu408/libfacedetection
 
 运行环境：VS2017,Opencv4.01     
 
