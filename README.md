@@ -1,4 +1,4 @@
-# VS2017-Opencv
+# VS2015-Opencv4.01
 
 ## 最快人脸检测库：libfacedetection。---2019.3.14开源
 
@@ -9,6 +9,6 @@ libfacedetection 是一个基于CNN的人脸检测的开源库。CNN模型已在
 
 修改后的代码：https://github.com/liuliu408/libfacedetection
 
-运行环境：VS2017,Opencv4.01     
+运行环境：VS2015,Opencv4.01     
 
-测试ok！测试时间2019-03-14 15：40
+测试ok！测试时间2019-03-14 
